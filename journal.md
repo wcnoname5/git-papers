@@ -1,8 +1,9 @@
 # Damn
 Hi this is a test file
 
-This is create by all my imagination friends.
-
+This is created with all my imagination friends.
+My afflication: National Taiwan University.
+ 
 # Introduction
 
 Oh my gah!
