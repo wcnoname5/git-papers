@@ -8,6 +8,10 @@ Oh my gah!
 ## Results
 Not significant.
 
+## Figures
+
+Beautiful barchart.
+
 # References
 
 Chang, C. (2022)
